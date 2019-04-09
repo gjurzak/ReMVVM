@@ -1,2 +1,2 @@
-git "git@github.com:dgrzeszczak/SwiftyRedux.git" "develop"
-git "git@github.com:dgrzeszczak/MVVM.git" "develop"
+git "git@github.com:gjurzak/SwiftyRedux.git" "old"
+git "git@github.com:dgrzeszczak/MVVM.git" "22716315895e19b65333958bd18b9132ae568870"
